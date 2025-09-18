@@ -62,4 +62,47 @@ button:hover {
 }
 
 .error-message {
-  color
+  color: #ff4d4d;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* Estatísticas */
+#stats {
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+#stats span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* Carteira */
+#wallet {
+  background: rgba(20, 20, 20, 0.8);
+  border: 1px solid #45a29e;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+#wallet input {
+  padding: 8px;
+  margin: 5px;
+  border: none;
+  border-radius: 6px;
+}
+
+#wallet-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#wallet-message {
+  margin-top: 10px;
+  font-size: 14px;
+}
