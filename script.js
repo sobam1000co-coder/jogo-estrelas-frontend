@@ -1,4 +1,4 @@
-const API_URL = "https://seu-backend.onrender.com"; // troque depois pelo link do backend deployado
+const API_URL = "https://star-game-backend.onrender.com'',, // troque depois pelo link do backend deployado
 
 let username = "";
 let score = 0;
