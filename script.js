@@ -1,5 +1,5 @@
 // script.js (frontend)
-const API_URL = "https://star-game-backend.onrender.com''; // troque depois pelo link do backend deployado
+const API_URL = "https://star-game-backend.onrender.com"; // troque depois pelo link do backend deployado
 let playerId = "";
 let points = 0;
 
